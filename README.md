@@ -1,2 +1,2 @@
 # TinyOne
-Training template
+My training template
