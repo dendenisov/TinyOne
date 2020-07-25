@@ -1,2 +1,2 @@
 # TinyOne
-My training template
+> # [My training template](https://dendenisov.github.io/TinyOne/)
